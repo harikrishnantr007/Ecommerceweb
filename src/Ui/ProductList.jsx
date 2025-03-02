@@ -1,6 +1,7 @@
 import React from 'react'
 import ProductCard from './ProductCard'
 import Carousel from 'react-multi-carousel';
+import '../Styles/ProductCard.scss'
 import 'react-multi-carousel/lib/styles.css';
 const ProductList = ({data}) => {
   const responsive = {
@@ -19,12 +20,13 @@ const ProductList = ({data}) => {
     },
     mobile: {
       breakpoint: { max: 464, min: 0 },
-      items: 2
+      items: 1
     }
   };
   return (
     <>
-    <Carousel responsive={responsive}>
+    
+    <Carousel responsive={responsive} centerMode={true}>
    {data.map((item ,index)=>(
  <ProductCard item={item} key={index}/>
     ))} 

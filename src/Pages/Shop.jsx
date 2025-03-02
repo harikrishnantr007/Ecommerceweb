@@ -82,7 +82,7 @@ const Shop = () => {
     <section>
     <div className="container">
     <div className="row">
-      <div className='col-6 col-lg-3 col-md-6'>
+      <div className='col-12  col-lg-3 col-md-6'>
         <div className="filter_widget">
           <select onChange={handleFilter}>
           <option >Filter By Category</option>

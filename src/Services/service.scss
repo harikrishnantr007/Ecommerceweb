@@ -56,3 +56,19 @@
     }
     }
   }
+  @media (max-width: 395px) {
+    .service-card{
+      margin: 13px;
+      padding: 9px;
+      width: 20vw;
+      height: 7vh;
+
+
+      .icon{
+        font-size: 18px;
+    }
+    .service-title ,p{
+      font-size: 5px;
+    }
+    }
+  }

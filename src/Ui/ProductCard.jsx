@@ -32,7 +32,7 @@ const ProductCard = ({item}) => {
   }
   return (
    
-    <div className="col-6 col-sm-6 col-md-4 col-lg-3 ">
+    <div className="col-6  col-sm-6 col-md-4 col-lg-3  ">
     <Card className='product-card ' style={{  }}>
     <Link className='product-link' to={`/shop/${item.id}`}> <Card.Img className='card-img' style={{ }} variant="top" src={item.imgUrl} /></Link>
     <Card.Body>
