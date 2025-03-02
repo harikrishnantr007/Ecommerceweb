@@ -117,7 +117,7 @@ display: none;
 }
 nav {
     box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
-    background-color: white;
+    background-color: rgb(29, 87, 180);
     height: 12vh;
    margin-bottom: 16px;
     position: sticky;
@@ -184,7 +184,7 @@ nav {
     }
 
     @media (max-width: 579px) {
-        Nav{
+        nav{
             height: 18vh;
         }
 ul{
@@ -204,43 +204,7 @@ ul{
         }
     }
 
-    @media  (max-width:450px){
-        .header{
-            height: 150px;
-        }
-            ul li h5 {
-                font-size: 10px;
-            }
-            nav{
-               
-                height: 15vh;
-                ul{
-                    justify-content: normal;
-                }
-            }
-            .nav_wrapper{
-               
-               
-                .logo{
-                    margin: 10px;
-                }
-                
-        }
-        .nav-search:not(.small_screen)
-        {
-            display: none;
-        }
-        
-        .nav-search.small_screen{
-            display: flex;
-           width: 90%;
-           height: 3rem;
-           
-        }
-        
-        
-             
-        }
+   
     
             
             
@@ -251,9 +215,9 @@ ul{
             ul li h5 {
                 font-size: 10px;
             }
-            nav{
-               
-                height: 15vh;
+             nav {
+               background-color: yellowgreen;
+                height: 20vh;
                 ul{
                     justify-content: normal;
                 }
