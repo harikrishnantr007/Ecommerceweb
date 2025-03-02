@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Ecommerceweb/static/css/main.06e70bb9.css",
-    "main.js": "/Ecommerceweb/static/js/main.c347e48f.js",
+    "main.css": "/Ecommerceweb/static/css/main.21a5c4fa.css",
+    "main.js": "/Ecommerceweb/static/js/main.c6f5a79c.js",
     "static/js/453.98fd385d.chunk.js": "/Ecommerceweb/static/js/453.98fd385d.chunk.js",
     "static/media/single-sofa-01.jpg": "/Ecommerceweb/static/media/single-sofa-01.db24b9feed7582c4e98d.jpg",
     "static/media/arm-chair-03.jpg": "/Ecommerceweb/static/media/arm-chair-03.3249f382638c86196acd.jpg",
@@ -60,12 +60,12 @@
     "static/media/samsungpad.webp": "/Ecommerceweb/static/media/samsungpad.7e3bcb4d9df1d7df09d2.webp",
     "static/media/onepluspad.webp": "/Ecommerceweb/static/media/onepluspad.a1267abb0f3f9085f4d9.webp",
     "index.html": "/Ecommerceweb/index.html",
-    "main.06e70bb9.css.map": "/Ecommerceweb/static/css/main.06e70bb9.css.map",
-    "main.c347e48f.js.map": "/Ecommerceweb/static/js/main.c347e48f.js.map",
+    "main.21a5c4fa.css.map": "/Ecommerceweb/static/css/main.21a5c4fa.css.map",
+    "main.c6f5a79c.js.map": "/Ecommerceweb/static/js/main.c6f5a79c.js.map",
     "453.98fd385d.chunk.js.map": "/Ecommerceweb/static/js/453.98fd385d.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.06e70bb9.css",
-    "static/js/main.c347e48f.js"
+    "static/css/main.21a5c4fa.css",
+    "static/js/main.c6f5a79c.js"
   ]
 }
