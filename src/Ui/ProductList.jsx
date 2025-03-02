@@ -26,7 +26,7 @@ const ProductList = ({data}) => {
   return (
     <>
     
-    <Carousel responsive={responsive} centerMode={true}>
+    <Carousel responsive={responsive} >
    {data.map((item ,index)=>(
  <ProductCard item={item} key={index}/>
     ))} 
