@@ -1,0 +1,35 @@
+.footer{
+    height: 30vh;
+    background-color: #212121;
+    color: white;
+
+    .some {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+       margin-top: 10px;
+       ul{
+        padding-left: 0px;
+       }
+
+       div {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+       
+       }
+       h6{
+        color: rgb(121, 116, 116);
+       }
+       .vertical-line {
+        width: 2px; /* Thickness of the line */
+        height: 100px; /* Length of the line */
+        background-color: rgb(175, 168, 168); /* Color of the line */
+        margin: 10px; /* Optional spacing around the line */
+      }
+      p{
+        margin: 0px;
+        padding: 0px;
+      }
+    }
+}
